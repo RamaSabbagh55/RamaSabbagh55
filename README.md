@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🎓 BSc in Software Engineering – Umm Al-Qura University  <br>🌍 Based in Makkah, Saudi Arabia  <br>💼 Software Engineer</h4>
+<h4 align="left">🎓 BSc in Software Engineering – Umm Al-Qura University  <br>🌍  Makkah, Saudi Arabia  <br>💼 Software Engineer</h4>
 
 ###
 
